@@ -1,0 +1,33 @@
+
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+.body_backgorund {
+background-image: url("bg1.jpg");
+background-position: center ;
+background-size: cover ;
+
+
+}
+
+#canvas_new{
+border-width: 20px ;
+border-style: ridge ;
+border-color: royalblue;
+background-color: wheat ;
+
+}
+
+span{
+	font-size: 27px ;
+
+}
+button{
+	background-color: blue ;
+	border: 4px;
+    color : orangered ;
+	padding: 10px 42px ;
+	font-size: 15px ;
+}
